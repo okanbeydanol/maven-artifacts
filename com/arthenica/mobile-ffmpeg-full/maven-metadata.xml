@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.arthenica</groupId>
+  <artifactId>mobile-ffmpeg-full</artifactId>
+  <versioning>
+    <latest>4.4-lts</latest>
+    <release>4.4-lts</release>
+    <versions>
+      <version>4.4-lts</version>
+    </versions>
+    <lastUpdated>20250814080437</lastUpdated>
+  </versioning>
+</metadata>
