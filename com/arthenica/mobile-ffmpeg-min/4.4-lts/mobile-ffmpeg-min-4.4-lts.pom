@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.arthenica</groupId>
   <artifactId>mobile-ffmpeg-min</artifactId>
-  <version>4.4.LTS</version>
+  <version>4.4-lts</version>
   <packaging>aar</packaging>
   <name>mobile-ffmpeg-min</name>
   <description>Includes FFmpeg v4.4-dev-416 without any external libraries enabled.</description>
